@@ -1,0 +1,30 @@
+img {
+    width: 90%;
+    border: 5px solid white;
+}
+
+.prompt {
+    background-color: lightgray;
+}
+
+form {
+    padding-bottom: 10px;
+}
+
+button {
+    background-color: blue;
+    color: black;
+    font-size: larger;
+    border:none;
+}
+
+figcaption {
+    font-size: large;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
